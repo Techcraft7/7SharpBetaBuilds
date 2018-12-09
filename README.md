@@ -1,4 +1,3 @@
-# 7SharpBetaBuilds
-Beta builds of 7sharp
+# 7SharpBetaBuilds 1.7
 
-view the braches for the beta versions!
+Beta builds of 7sharp for 1.7

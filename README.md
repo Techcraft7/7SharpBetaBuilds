@@ -1,3 +1,3 @@
-# 7SharpBetaBuilds 1.8
+# 7SharpBetaBuilds 2.0 
 
-Beta builds of 7sharp for 1.8
+Beta builds of 7sharp for v2.0
